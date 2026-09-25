@@ -1,6 +1,6 @@
 Package: epangtools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Tools for EPA-ng jplace Files
 Version: 0.1.0
 Authors@R: c(
     person(
